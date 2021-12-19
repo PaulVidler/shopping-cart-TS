@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Typescript/React shopping cart app 🛒
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Typescript/React shopping cart app 🛒
 
 Download the code & run **npm install** to install dependencies before starting the app.
 
