@@ -8,9 +8,9 @@ Download the code & run **npm install** to install dependencies before starting 
 
 Shop:
 
-![logo](https://github.com/PaulVidler/material-ui-tut/blob/lesson-1/public/AddNote.PNG)
+![logo](https://github.com/PaulVidler/shopping-cart-TS/blob/master/public/shop.PNG)
 
-View/Delete todo:
+Shopping Basket:
 
-![logo](https://github.com/PaulVidler/material-ui-tut/blob/lesson-1/public/Todos.PNG)
+![logo](https://github.com/PaulVidler/shopping-cart-TS/blob/master/public/basket.PNG)
 
